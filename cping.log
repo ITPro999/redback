@@ -1,0 +1,3 @@
+root - 09-Dec-18 23:49:30 - 23436 - INFO - Logger is on
+root - 09-Dec-18 23:49:30 - 23436 - INFO - cping app initialised successfully
+root - 09-Dec-18 23:49:37 - 23436 - INFO - Requested to ping addresses in 10.1.1.0/24 every 3 seconds with 2 packets at a time.
